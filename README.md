@@ -1,9 +1,9 @@
 aind2-cnn
 Instructions
 
-    Clone the repository and navigate to the downloaded folder.
+Clone the repository and navigate to the downloaded folder.
 
-git clone https://github.com/udacity/aind2-cnn.git
+	git clone https://github.com/udacity/aind2-cnn.git
 cd aind2-cnn
 
 (Optional) If you plan to install TensorFlow with GPU support on your local machine, follow the guide to install the necessary NVIDIA software on your system. If you are using an EC2 GPU instance, you can skip this step.
